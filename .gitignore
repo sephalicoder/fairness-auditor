@@ -1,0 +1,9 @@
+# Large model/data artifacts not needed for the dashboard
+*.joblib
+*.pkl
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml
+venv/
+.venv/
